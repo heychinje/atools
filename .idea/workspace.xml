@@ -10,24 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f07ab3-e7ae-4857-8e64-681f996e0575" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_2_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_2_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_2_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_2_4_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_6_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_6_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_6_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_6_0_aar.xml" afterDir="false" />
@@ -36,7 +39,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" afterDir="false" />
@@ -79,11 +82,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/Atools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Atools.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/Atools.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Atools.app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
