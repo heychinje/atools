@@ -1,1 +1,13 @@
-# Android Studio.idea/*.iml.gradle/local.propertiesbuild/captures/.externalNativeBuild.cxxjacoco.exec# OSX files.DS_Store
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+build/
+captures/
+.externalNativeBuild
+.cxx
+jacoco.exec
+
+# OSX files
+.DS_Store
