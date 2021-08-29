@@ -1,2 +1,3 @@
 rootProject.name = "Atools"
 include ':app'
+include ':app_lib'

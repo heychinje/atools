@@ -4,15 +4,14 @@ plugins {
 }
 
 android {
-    compileSdkVersion app.compile_sdk_version
-    buildToolsVersion app.build_tools_version
+    compileSdk app_lib.compile_sdk
 
     defaultConfig {
-        applicationId app.application_id
-        minSdkVersion app.min_sdk_version
-        targetSdkVersion app.target_sdk_version
-        versionCode app.version_code
-        versionName app.version_name
+        applicationId app_lib.application_id
+        minSdk app_lib.min_sdk
+        targetSdk app_lib.target_sdk
+        versionCode app_lib.version_code
+        versionName app_lib.version_name
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

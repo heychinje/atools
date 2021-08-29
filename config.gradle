@@ -1,0 +1,24 @@
+def COMPILE_SDK_VERSION = 31
+def BUILD_TOOLS_VERSION = '30.0.3'
+def MIN_SDK_VERSION = 21
+def TARGET_SDK_VERSION = 31
+ext {
+    app = [
+            compile_sdk_version: COMPILE_SDK_VERSION,
+            build_tools_version: BUILD_TOOLS_VERSION,
+            min_sdk_version    : MIN_SDK_VERSION,
+            target_sdk_version : TARGET_SDK_VERSION,
+            version_code  : 1,
+            version_name  : '1.0',
+            application_id     : 'com.heychinje.atools'
+    ]
+
+    app_lib = [
+            compile_sdk   : COMPILE_SDK_VERSION,
+            min_sdk       : MIN_SDK_VERSION,
+            target_sdk    : TARGET_SDK_VERSION,
+            version_code  : 1,
+            version_name  : '1.0',
+            application_id: 'com.heychinje.app.lib',
+    ]
+}
