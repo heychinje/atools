@@ -4,15 +4,14 @@ plugins {
 }
 
 android {
-    compileSdkVersion app.compile_sdk_version
-    buildToolsVersion app.build_tools_version
+    compileSdk router.compile_sdk
 
     defaultConfig {
-        applicationId app.application_id
-        minSdkVersion app.min_sdk_version
-        targetSdkVersion app.target_sdk_version
-        versionCode app.version_code
-        versionName app.version_name
+        applicationId router.application_id
+        minSdk router.min_sdk
+        targetSdk router.target_sdk
+        versionCode router.version_code
+        versionName router.version_name
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -33,8 +32,8 @@ android {
 }
 
 dependencies {
-    project (':app_lib')
     project (':router_lib')
+
     implementation rootProject.ext.dependencies['kotlin-stdlib']
     implementation rootProject.ext.dependencies['core-ktx']
     implementation rootProject.ext.dependencies['appcompat']
